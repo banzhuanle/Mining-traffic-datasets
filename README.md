@@ -4,7 +4,7 @@ Various types of mining traffic data we have collected in recent months are open
 The dataset is named USTCNICDATA2022.
 The dataset covers encrypted and unencrypted mining traffic, as well as mining traffic based on IPv4 / IPv6 transmission.
 The main currency types include Ethereum and Monroe.And some other types of digital currencies.
-The type of data is indicated in the download file. We put the download link in "get down address" file.
+The type of data is indicated in the download file. We put the download link in "Get download address" file.
 
 
 
